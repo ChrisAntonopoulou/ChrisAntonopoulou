@@ -3,9 +3,9 @@
 **'Bits, Bytes, and Breaches (Cybersecurity Analyst/Developer)'**
 
 
-I’m a cybersecurity professional with a passion for Python development, always exploring the intersection of security and code. Fun fact: I actually started my journey as a recruiter before transitioning to cybersecurity — now I’m all about identifying vulnerabilities and leveraging Python find ways to improve security defenses. 
+I’m a cybersecurity professional with a passion for Python. I actually started my career in recruitment before making the switch to cybersecurity, and now I’m all about finding vulnerabilities and using Python to improve security. 
 
-Every project I take on starts with a simple idea, whether it’s for university or personal work. I build it up piece by piece, turning it into something more complex and impactful. My goal is always the same: use code to tackle challenges and strengthen digital defenses.
+Whether it's for university projects or personal work, I love taking a simple idea and building it up piece by piece to create something impactful. At the end of the day, I’m driven by using code to solve problems and make digital spaces safer.
 
 <p align = "left">
   <a href="https://www.linkedin.com/in/chrisantonopoulou/"> 
