@@ -1,11 +1,12 @@
 # ChrisAntonopoulou
 
-**'Bits, Bytes, and Breaches (Cybersecurity Analyst/Developer)'**
+**'Code Wrangler | Data Explorer'**
 
+From business to HR to tech, my journey has always been connecting the dots, whether they're between people, systems or streams of data. Now as a Computer Science MSc student at University of York, I'm diving deeper into the world of algorithms, architectures, and AI.
 
-I’m a cybersecurity professional with a passion for Python. I actually started my career in recruitment before making the switch to cybersecurity, and now I’m all about finding vulnerabilities and using Python to improve security. 
+I've worked with global giants like Dentsu, AWS, and Otis, where I gained valuable experience building connections between talent and opportunity, and later, between data and decisions. Currently, I work as a Security Operations Analyst, using tools like Splunk, LogRhythm, and Sentinel to detect and report cybersecurity issues, helping clients respond to and mitigate potential threats.
 
-Whether it's for university projects or personal work, I love taking a simple idea and building it up piece by piece to create something impactful. At the end of the day, I’m driven by using code to solve problems and make digital spaces safer.
+But my true passion? Building. Whether it’s a personal Python project or finding innovative ways to solve problems, I enjoy turning challenges into impactful solutions. I’m constantly curious, always looking to explore and learn new technologies.
 
 <p align = "left">
   <a href="https://www.linkedin.com/in/chrisantonopoulou/"> 
